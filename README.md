@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rechard Nabo from South Africa
 - I Studied Electrical Engineering (Electronics)
-- 📫 How to reach me  :  Nhlanhlamicheal@gmail.com
+- 
 
 <!---
 RechardNabo/RechardNabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
